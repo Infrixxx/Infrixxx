@@ -2,7 +2,7 @@
 
 **`Code advocate (Innovator / Content creator /Student)`**
 
-I am an aeronautical engineering student, who has a passion for software development. This journey into software development, began on 15 December 2022, when I wondered what would the next step forward be, after being unable to continue my studies due to financial hurdles. I divided into the lustrious world of code and realised that software has great potential to change the society I live in and even the world at large. I took on the journey to bridge societal problems with code, to solve social issues and I am on a lifelong journey to become the best within this field. 
+I was an aeronautical engineering student, who has a passion for software development. This journey into software development, began on 15 December 2022, when I wondered what would the next step forward be, after being unable to continue my studies due to financial hurdles. I divided into the lustrious world of code and realised that software has great potential to change the society I live in and even the world at large. I took on the journey to bridge societal problems with code, to solve social issues and I am on a lifelong journey to become the best within this field. 
 ### *`educationislimitless`*
 
    <p align="left">
